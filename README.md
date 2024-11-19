@@ -1,2 +1,2 @@
 # Travel-Website
-Travel Website with Vite + React + TS
+Travel Website In Vite + React + TS with chatbot in corner
