@@ -32,4 +32,6 @@ A modern **travel website** built using **Vite**, **React**, and **TypeScript**,
 
 5. Start the development server:
     npm run dev
+
+   ![Capture d'écran du site](Capture .png)
    
