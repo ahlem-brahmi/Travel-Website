@@ -33,9 +33,4 @@ A modern **travel website** built using **Vite**, **React**, and **TypeScript**,
 5. Start the development server:
     npm run dev
 
-   ![[Capture d'écran du site](https://github.com/ahlem-brahmi/Travel-Website)](image/Capture .png)
-   https://github.com/ahlem-brahmi/Travel-Website/blob/main/image/Capture%20.png
-   (https://github.com/user-attachments/image/Capture%20.png)
-   
-   https://github.com/ahlem-brahmi/Travel-Website/image/Capture .png
-   
+  
