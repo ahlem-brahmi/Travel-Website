@@ -33,4 +33,6 @@ A modern **travel website** built using **Vite**, **React**, and **TypeScript**,
 5. Start the development server:
     npm run dev
 
+   ![Capture ](https://github.com/user-attachments/assets/579312ca-8f1e-45f2-aa21-e35d3dad7c22)
+
   
