@@ -27,9 +27,9 @@ A modern **travel website** built using **Vite**, **React**, and **TypeScript**,
 3. Navigate to the project directory:
     cd travel-website
  
-4.Install dependencies:
+ 4.Install dependencies:
     npm install
 
-5.Start the development server:
+ 5.Start the development server:
     npm run dev
    
